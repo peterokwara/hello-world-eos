@@ -6,7 +6,7 @@ An eos.io smart contract that says hi to whichever username specified.
 
 Sample image of it running
 
-<img src="./Assets/messenger.jpg">
+<img src="./Assets/Screenshot from 2018-07-16 00-10-19.png">
 
 ## Getting Started
 eosiocpp -n HelloWorld
