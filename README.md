@@ -1,6 +1,3 @@
-peter@peter:~/Documents/Projects/HelloWorld$ ./cleos.sh push action hello hi '["dolores"]' -p hello@active
-
-
 # Hello world on eosio
 
 An eos.io smart contract that says hi to whichever username specified.
